@@ -1,2 +1,4 @@
 # swe-573-project
-Repository for SWE 573 – Software Development Practice course assignments, instructed by Suzan Üsküdarlı.
+This repository is created for **SWE 573 – Software Development Practice**, instructed by **Suzan Üsküdarlı**.
+
+Course practices and assignments will be implemented here to learn software development and related practices.
